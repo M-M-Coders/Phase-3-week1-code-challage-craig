@@ -11,3 +11,6 @@ https://github.com/craigAU854/Phase-3-week1-code-challage-craig/blob/main/challe
 Your job is to write a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise.
 
 https://github.com/craigAU854/Phase-3-week1-code-challage-craig/blob/main/challenge-2-positive_check.py
+
+CHALLENGE 3: Consonant value
+Given a lowercase string that has alphabetic characters only and no spaces, return the highest value of consonant substrings. Consonants are any letters of the alphabet except "aeiou".We shall assign the following values: a = 1, b = 2, c = 3, .... z = 26.
