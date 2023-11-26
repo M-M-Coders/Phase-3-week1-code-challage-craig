@@ -9,3 +9,5 @@ https://github.com/craigAU854/Phase-3-week1-code-challage-craig/blob/main/challe
 
 #CHALLENGE 2: Two numbers are positive.
 Your job is to write a function, which takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise.
+
+https://github.com/craigAU854/Phase-3-week1-code-challage-craig/blob/main/challenge-2-positive_check.py
