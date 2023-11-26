@@ -14,3 +14,5 @@ https://github.com/craigAU854/Phase-3-week1-code-challage-craig/blob/main/challe
 
 CHALLENGE 3: Consonant value
 Given a lowercase string that has alphabetic characters only and no spaces, return the highest value of consonant substrings. Consonants are any letters of the alphabet except "aeiou".We shall assign the following values: a = 1, b = 2, c = 3, .... z = 26.
+
+https://github.com/craigAU854/Phase-3-week1-code-challage-craig/blob/main/challenge-3-consonant_value.py
